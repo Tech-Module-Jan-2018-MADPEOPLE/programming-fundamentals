@@ -9,7 +9,7 @@ namespace _04.BeverageLabels
         static void Main(string[] args)
         {
             //We recieve from the Console the product name -> a string
-            string name = Console.ReadLine();
+            string nameString = Console.ReadLine();
 
             /*In the next three lines, we recieve the volume,
              * energy and sugar content of our product,
