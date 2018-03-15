@@ -1,4 +1,7 @@
-﻿using System;
+﻿// CONFIRMED from <MladenRaykov>
+
+
+using System;
 
 namespace MilesToKm
 {
@@ -10,10 +13,10 @@ namespace MilesToKm
             double miles = double.Parse(Console.ReadLine());
 
             //convert miles to kilometers
-            double km = miles * 1.60934;
+            double kilometers = miles * 1.60934;
 
             //round to the second digit after the decimal point
-            Console.WriteLine($"{km:f2}");
+            Console.WriteLine($"{kilometers:f2}");
         }
     }
 }
