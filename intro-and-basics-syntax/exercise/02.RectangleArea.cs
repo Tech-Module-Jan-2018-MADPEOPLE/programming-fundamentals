@@ -7,7 +7,7 @@ namespace RectangleArea
         static void Main(string[] args)
         {
             //We recieve two lines from the Console width 
-            //and height -> a double type
+            //and height -> a double type!
             double width = double.Parse(Console.ReadLine());
             double height= double.Parse(Console.ReadLine());
 
