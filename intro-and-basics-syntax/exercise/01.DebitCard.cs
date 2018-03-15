@@ -7,13 +7,14 @@ namespace DebitCardNum
         static void Main(string[] args)
         {
 		//We receive from the Console four numbers
-            int num1 = int.Parse(Console.ReadLine());
-            int num2 = int.Parse(Console.ReadLine());
-            int num3 = int.Parse(Console.ReadLine());
-            int num4 = int.Parse(Console.ReadLine());
+        // Changed variables name from num -> number
+            int number1 = int.Parse(Console.ReadLine());
+            int number2 = int.Parse(Console.ReadLine());
+            int number3 = int.Parse(Console.ReadLine());
+            int number4 = int.Parse(Console.ReadLine());
 		
 		//TODO
-            Console.WriteLine($"{num1:d4} {num2:d4} {num3:d4} {num4:d4}");
+            Console.WriteLine($"{number1:d4} {number2:d4} {number3:d4} {number4:d4}");
         }
     }
 }
