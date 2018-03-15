@@ -4,15 +4,7 @@ Programming fundamentals Repository
 
 Write a program, which receives **4****integers** on the console and **prints them** in **4-digit debit card format**. See the examples below for the appropriate formatting.
 
-**Examples**
 
- 
-
-**Input**
-
- 
-
-**Output**
 
 Problem 2. Rectangle Area
 
@@ -30,74 +22,6 @@ nd decimal place**.
 
 Note: **1 mile ==
 1.60934 kilometers**
-
-#### Examples
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-** **
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-** **
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-60
-
- 
-
-96.56
-
- 
-
-1
-
- 
-
-1.61
-
- 
-
-52.1113
-
- 
-
-83.86
-
-
-
-Problem 5. * Character Stats
-
-Write a program, which displays information about a video game character. You will receive their name, current
-
-health, maximum health, current energy and maximum energy on separate lines. The current values will always be
-
-valid (equal or lower than their respective max values). Print them in the format as per the examples.
 
 
 
@@ -125,5 +49,10 @@ Sugar content – **integer**, **suffixed** by “**g**” (e.g. “**30g**”)
 #### Examples
 
  
+Problem 5. * Character Stats
 
-**Input**
+Write a program, which displays information about a video game character. You will receive their name, current
+
+health, maximum health, current energy and maximum energy on separate lines. The current values will always be
+
+valid (equal or lower than their respective max values). Print them in the format as per the examples.
