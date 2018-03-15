@@ -20,7 +20,7 @@ Write a program, which calculates a rectangle’s area, based on its width and hei
 
 floating point numbers on the console, formatted to the 2 nd character after the decimal point.
 
-### Problem 1.                 
+### Problem 3.                 
 Miles to Kilometers
 
 Write a program, which **converts****miles** to **kilometers**. **Format** the output
@@ -88,6 +88,8 @@ Note: **1 mile ==
  
 
 83.86
+
+
 
 Problem 5. * Character Stats
 
