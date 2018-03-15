@@ -4,15 +4,7 @@ Programming fundamentals Repository
 
 Write a program, which receives **4****integers** on the console and **prints them** in **4-digit debit card format**. See the examples below for the appropriate formatting.
 
-**Examples**
 
- 
-
-**Input**
-
- 
-
-**Output**
 
 Problem 2. Rectangle Area
 
@@ -30,64 +22,6 @@ nd decimal place**.
 
 Note: **1 mile ==
 1.60934 kilometers**
-
-#### Examples
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-** **
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-** **
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-60
-
- 
-
-96.56
-
- 
-
-1
-
- 
-
-1.61
-
- 
-
-52.1113
-
- 
-
-83.86
 
 
 
