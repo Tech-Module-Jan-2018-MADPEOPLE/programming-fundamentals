@@ -1,4 +1,4 @@
-﻿//Confirmed by DanielDraskov
+﻿//Confirmed from <DanielDraskov>
 using System;
 
 namespace RectangleArea
