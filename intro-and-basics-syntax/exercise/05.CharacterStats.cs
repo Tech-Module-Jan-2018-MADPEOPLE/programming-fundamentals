@@ -11,6 +11,7 @@ namespace CharacterStats05
         static void Main(string[] args)
         {
             // input data from console
+            // for test
             string name = Console.ReadLine();
             int currentHealth = int.Parse(Console.ReadLine());
             int maxHealth = int.Parse(Console.ReadLine());
