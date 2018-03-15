@@ -1,4 +1,5 @@
-﻿using System;
+﻿//Confirmed by DanielDraskov
+using System;
 
 namespace RectangleArea
 {
